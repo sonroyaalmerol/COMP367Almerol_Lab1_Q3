@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMP367Almerol_Lab1_Q3", "COMP367Almerol_Lab1_Q3\COMP367Almerol_Lab1_Q3.csproj", "{44E7D822-A02F-482E-B668-03D9FA51D12B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44E7D822-A02F-482E-B668-03D9FA51D12B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44E7D822-A02F-482E-B668-03D9FA51D12B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44E7D822-A02F-482E-B668-03D9FA51D12B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44E7D822-A02F-482E-B668-03D9FA51D12B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C8A2C06-4C18-484F-BC61-93A64F78D8DB}
+	EndGlobalSection
+EndGlobal
